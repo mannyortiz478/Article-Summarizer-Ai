@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Sentiment Analysis</title>
+</head>
+
+<body>
+    <h1>Sentiment Analysis Results</h1>
+    <form method="POST">
+        <label for="url">Enter an article URL:</label>
+        <input type="text" id="url" name="url" required>
+        <input type="submit" value="Analyze">
+    </form>
+    <hr>
+    <h2>Article Details</h2>
+    <p><strong>Title:</strong> {{ title }}</p>
+    <p><strong>Authors:</strong> {{ authors }}</p>
+    <p><strong>Publication Date:</strong> {{ publish_date }}</p>
+    <p><strong>Summary:</strong> {{ summary }}</p>
+    <h2>Sentiment:</h2>
+    <p>{{ sentiment }}</p>
+</body>
+
+</html>
