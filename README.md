@@ -1,5 +1,4 @@
-# aiProgram
- # Article Summarizer
+# aiProgram - Article Summarizer
 
 An Ai program that takes in a Newspaper article and summarizes it for you!!
 
@@ -39,7 +38,12 @@ Some of the key features are...
 
 ### Prerequisites
 
-pip install the following: nltk, textblob, newspaper3k and flask.
+```bash
+pip install nltk 
+pip installtextblob 
+pip install newspaper3k 
+pip install flask
+```
 
 ### Installation
 
@@ -48,7 +52,7 @@ pip install the following: nltk, textblob, newspaper3k and flask.
 - then with the terminal in your IDE, run `python3 main.py`.
 
 ## Acknowledgments
-- Shoutout to NeuralNine for showing how to write the ML code
+- Shoutout to NeuralNine for showing how to write the ML code on his YT channel: 
     Video: https://www.youtube.com/watch?v=z4DQYprjPSs&list=WL&index=180&t=129s
 
 ```bash
