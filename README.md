@@ -40,9 +40,10 @@ Some of the key features are...
 
 ```bash
 pip install nltk 
-pip installtextblob 
+pip install textblob 
 pip install newspaper3k 
 pip install flask
+pip install lxml_html_clean
 ```
 
 ### Installation
