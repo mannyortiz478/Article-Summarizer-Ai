@@ -1,4 +1,4 @@
-# aiProgram - Article Summarizer
+# AI - Article Summarizer
 
 An Ai program that takes in a Newspaper article and summarizes it for you!!
 
