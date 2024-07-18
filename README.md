@@ -54,7 +54,3 @@ pip install flask
 ## Acknowledgments
 - Shoutout to NeuralNine for showing how to write the ML code on his YT channel: 
     Video: https://www.youtube.com/watch?v=z4DQYprjPSs&list=WL&index=180&t=129s
-
-```bash
-npm install
-
